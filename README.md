@@ -4,7 +4,7 @@ Web page design usgin css latest feature , such as flexbox, grid layout, css var
 
 
 ## DEMO
-- Landing Page [<<demo>>](https://github.com)
+- Landing Page [DEMO](https://github.com)
 
 
 ## Contribute
